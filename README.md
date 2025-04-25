@@ -12,3 +12,4 @@ An implementation of a lite Redis database (eighth in a series of coding challen
 - `time`: To sleep the thread (or should I say goroutine...?).
 
 
+## Files
